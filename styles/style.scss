@@ -25,13 +25,13 @@ body {
 .btn{
     background-color: $colourFour;
     color: $colourTwo;
-    border: 1px solid $colourTwo;
+    border: 2px solid $colourTwo;
     border-radius: 1px;
     padding: 5px 10px;
     outline: none;
     font-size: 20px;
-    &::after {
-        border: 2px solid $colourTwo;
+    &:hover {
+        background-color: $colourFive;
     }
 }
 
