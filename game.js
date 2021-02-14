@@ -196,7 +196,7 @@ const textNodes = [
   },
   {
     id: 13,
-    text: 'You bump into a security guard while running away from the muderer who, upon seeing the guard, gives up his pursuit of you and runs the other way.',
+    text: 'You bump into a security guard while running away. The murderer turns back and disappears. ',
     options: [
       {
         text: 'Explain',
@@ -206,7 +206,7 @@ const textNodes = [
   },
   {
     id: 14,
-    text: 'The guard explains he has locked the doors making it impossible for the culprit to exit the building. He then asks you what you think the two of you should do now.',
+    text: 'The guard has locked all of the hotels exits. He asks your opinion on what to do next.',
     options: [
       {
         text: 'Survey all of the rooms.',
