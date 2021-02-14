@@ -230,7 +230,7 @@ const textNodes = [
   },
   {
     id: 16,
-    text: 'Upon entering room 17 you see a man frantically washing his hands in the sink. They are covered in blood.',
+    text: 'YOu enter room 17 and see a man frantically washing his bloody hands in the sink.',
     options: [
       {
         text: 'Attempt to restrain him.',
